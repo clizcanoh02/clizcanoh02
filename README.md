@@ -1,16 +1,19 @@
-## Hi there 👋
+Hi, I'm Cristian 👋
 
-<!--
-**clizcanoh02/clizcanoh02** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Technical Support Analyst based in Ontario, Canada, with nearly 5 years of experience working with enterprise software applications.
+My background includes application troubleshooting, SQL databases, technical reporting, and working with customers to solve complex issues.
 
-Here are some ideas to get you started:
+Technical Skills
+Databases: SQL Server, Oracle, SQL
+Programming & Data: Python, Pandas
+Reporting: JasperReports, Power BI
+Other: Application Support, Troubleshooting, REST APIs, Data Analysis
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+What I'm Working On
+Improving my Python and SQL skills
+Building practical data analysis projects
+Exploring data visualization and machine learning
+
+Professional Interests
+I'm interested in opportunities involving technical support, SQL, data analysis, and software applications.
+I enjoy solving problems, learning new technologies, and finding practical ways to make systems work better.
